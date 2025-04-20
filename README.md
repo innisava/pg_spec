@@ -30,11 +30,11 @@ cd postgresql-installer
 ```
 ### 2. **Права на выполнение:**
 ```shell
-chmod +x install_postgres.sh
+chmod +x pg_setup.sh
 ```
 ### 3. **Запуск скрипта:**
 ```shell
- bash install_postgres.sh "IP_1,IP_2" [--key /path/private_key]
+ bash pg_setup.sh "IP_1,IP_2" [--key /path/private_key]
 ```
 ### **Пример запуска**
 ```shell
