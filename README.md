@@ -25,7 +25,7 @@
 
 ### 1. **Клонировать репозиторий:**
 ```shell
-git clone https://github.com/your_username/postgresql-installer.git
+git clone https://github.com/innisava/pg_spec
 cd postgresql-installer
 ```
 ### 2. **Права на выполнение:**
