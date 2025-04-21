@@ -23,7 +23,7 @@
 
 ## Установка и запуск
 
-### 1. **Клонировать репозиторий:**
+### 1. **Клонирование репозитория:**
 ```shell
 git clone https://github.com/innisava/pg_spec
 cd pg_spec
